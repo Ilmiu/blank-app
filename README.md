@@ -13,7 +13,7 @@ Fitur Utama:
 4. Notifikasi jadwal pengumpulan via WhatsApp (COMING SOON)
 
 Manfaat: Transparansi nilai sampah, mendorong ekonomi sirkular
-[![Open in Streamlit]([(https://trashbank.streamlit.app/)])
+[(https://trashbank.streamlit.app/)]
 
 ### How to run it on your own machine
 
